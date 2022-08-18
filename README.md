@@ -28,16 +28,16 @@
 
 ## Project Screenshots :
 <p align="center">
-<img src="icons/Screenshots/Dashboard.jpg" width="auto" height="auto" title="Project Video Working" >
+<img src="icons/Screenshots/Dashboard.png" width="auto" height="auto" title="Dashboard" >
 </p>
 <p align="center">
-<img src="icons/Screenshots/Reception.jpg" width="auto" height="auto" title="Project Video Working" >
+<img src="icons/Screenshots/Reception.png" width="auto" height="auto" title="Reception" >
 </p>
 <p align="center">
-<img src="icons/Screenshots/customer_form.jpg" width="auto" height="auto" title="Project Video Working" >
+<img src="icons/Screenshots/customer_form.png" width="auto" height="auto" title="Customer Form" >
 </p>
 <p align="center">
-<img src="icons/Screenshots/new_employee.jpg" width="auto" height="auto" title="Project Video Working" >
+<img src="icons/Screenshots/new_employee.png" width="auto" height="auto" title="New Employee Form" >
 </p>
 ## Advantages 
 
