@@ -26,6 +26,19 @@
 <img src="icons/hotel_view.jpg" width="650" height="auto" title="Project Video Working" >
 </p>
 
+## Project Screenshots :
+<p align="center">
+<img src="icons/Screenshots/Dashboard.jpg" width="auto" height="auto" title="Project Video Working" >
+</p>
+<p align="center">
+<img src="icons/Screenshots/Reception.jpg" width="auto" height="auto" title="Project Video Working" >
+</p>
+<p align="center">
+<img src="icons/Screenshots/customer_form.jpg" width="auto" height="auto" title="Project Video Working" >
+</p>
+<p align="center">
+<img src="icons/Screenshots/new_employee.jpg" width="auto" height="auto" title="Project Video Working" >
+</p>
 ## Advantages 
 
  * It saves Receptionist time in searching and giving available room to custumer.
