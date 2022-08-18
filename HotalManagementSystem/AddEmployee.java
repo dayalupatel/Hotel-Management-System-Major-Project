@@ -16,7 +16,7 @@ public class AddEmployee extends JFrame implements ActionListener {
 
         setLayout(null);
 
-        getContentPane().setBackground(Color.lightGray);
+        getContentPane().setBackground(Color.WHITE);
 
         setBounds(350, 200, 850, 540);
 
