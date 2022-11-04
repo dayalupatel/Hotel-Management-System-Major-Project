@@ -99,7 +99,7 @@ public class PickUp extends JFrame implements ActionListener{
         back.addActionListener(this);
         add(back);
 
-        setBounds(300,200,1000,600);
+        setBounds(300,150,1000,600);
         setVisible(true);
     }
 

@@ -1,19 +1,19 @@
 package HotalManagementSystem;
 
-import java.awt.*;
-import java.awt.event.*;
-// import java.awt.Color;
-// import java.awt.Font;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Image;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.ResultSet;
 
-// import javax.imageio.ImageIO;
-// import javax.imageio.ImageReader;
-import javax.swing.*;
-// import javax.swing.ImageIcon;
-// import javax.swing.JButton;
-// import javax.swing.JFrame;
-// import javax.swing.JLabel;
-// import javax.swing.JTextField;
-import java.sql.*;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
 
 public class Login extends JFrame implements ActionListener{
 
@@ -97,7 +97,7 @@ public class Login extends JFrame implements ActionListener{
             try {
                 Connector c = new Connector();
 
-                String query = "select * from login where username = '" + user + "' and password = '" + pass + "'";
+                String query = "select * from login_info where username = '" + user + "' and password = '" + pass + "'";
 
                 ResultSet rs = c.s.executeQuery(query);
 
@@ -114,7 +114,6 @@ public class Login extends JFrame implements ActionListener{
         } else if(e.getSource() == cancel){
             setVisible(false);
         }
-        // String userName = 
         
     }
 }

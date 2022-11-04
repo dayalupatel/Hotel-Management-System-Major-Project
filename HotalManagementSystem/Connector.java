@@ -8,7 +8,7 @@ public class Connector {
     Connector(){
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql:///hotelmanagementsystem", "root", "9486");
+            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotelmanagementsystem", "root", "1235");
             s = c.createStatement();
 
         } catch(Exception e){

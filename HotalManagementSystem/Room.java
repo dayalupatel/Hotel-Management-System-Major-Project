@@ -62,7 +62,7 @@ public class Room extends JFrame implements ActionListener{
         back.addActionListener(this);
         add(back);
 
-        setBounds(300,200,1050,600);
+        setBounds(270,100,1050,600);
         setVisible(true);
     }
 
